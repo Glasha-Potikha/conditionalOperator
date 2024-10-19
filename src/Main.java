@@ -57,7 +57,7 @@ public class Main {
         } else {
             System.out.println("Вагон полностью свободен");
         }
-//Задача №6
+// Задача №6
         int one = 1;
         int two = 2;
         int three = 3;
